@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="882a3e51-890a-43ea-9e26-1f53914e665a" name="5GbFree" url="http://azizahta.5gbfree.com">
+        <fileTransfer host="ftp.azizahta.5gbfree.com" port="21" password="dfc8dfc3dfd8df9ddfc9dfc2dfcbdf92dfd9dfdfdf9c" username="Aziz@azizahta.5gbfree.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
